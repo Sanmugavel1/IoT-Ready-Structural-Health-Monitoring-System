@@ -183,11 +183,11 @@ It is designed for **real-time tilt monitoring and early warning only** and shou
 
 Electronics and Communication Engineering
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Sanmugavel1
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/sanmugavelb
 
-Email: [your-email@example.com](mailto:your-email@example.com)
+Email: sanmugavelb1@gmail.com
 
 ---
 
